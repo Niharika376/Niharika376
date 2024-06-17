@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Niharika376
-- 👀 I’m in love with coding...💕💕
-- 🌱 I’m currently learning ML and App Development.
-- 📫 How to reach me ...🤫🤫
+- 👋 Hi, I’m Niharika
+- 👀 I’m into Data analytics with python
+- 📫 How to reach me : https://www.linkedin.com/in/niharika-rathore-8938a8264/
 
 <!---
 Niharika376/Niharika376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
